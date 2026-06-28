@@ -1508,9 +1508,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `role_id`, `name`, `is_admin`, `last_name`, `cpf`, `phone`, `email`, `email_verified_at`, `password`, `remember_token`, `token_time`, `token`, `logged_in`, `banned`, `inviter`, `affiliate_revenue_share`, `affiliate_cpa`, `affiliate_baseline`, `is_demo_agent`, `oauth_id`, `oauth_type`, `status`, `created_at`, `updated_at`, `kscinus`) VALUES
-(1, 0, 'Admin', 1, NULL, '100.200.300-90', '(66) 98888-4444', 'admin@admin.com', NULL, '$2y$10$3NPQDbn.sdEAhaPOsuBnMOw77ZeK8XtBgivK26F0W7/rBXU5ALFSu', '$2y$10$3NPQDbn.sdEAhaPOsuBnMOw77ZeK8XtBgivK26F0W7/rBXU5ALFSu', 1696659991, '', 0, 0, 10, 20.00, 20.00, 0.00, 0, NULL, NULL, 'active', '2023-09-24 21:13:49', '2023-12-18 22:38:29', 1),
+(1, 0, 'Admin', 1, NULL, '100.200.300-90', '(66) 98888-4444', 'admin@admin.com', NULL, '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 1696659991, '', 0, 0, 10, 20.00, 20.00, 0.00, 0, NULL, NULL, 'active', '2023-09-24 21:13:49', '2023-12-18 22:38:29', 1),
 (339, 3, 'ari', 0, NULL, NULL, '(11', 'ebnelasi@hotmail.com', NULL, '$2y$10$OQCtQB7P1QtezylWCDLTNe6oe6S7.f9yCEFHkGoIg70bfAUQtbc8.', 'ViG79ikC4L3lFjH6qbcS2CZPrfhOG63EgdPEW9YIXrx3b6Jma7vkcMMN29er', NULL, NULL, 0, 0, NULL, 0.00, 0.00, 0.00, 0, NULL, NULL, 'active', '2023-12-21 16:14:07', '2023-12-21 16:14:07', 0),
-(336, 3, 'Atendimento', 0, NULL, NULL, '(00) 00000-0000', 'admin@gmail.com', NULL, '$2y$10$3NPQDbn.sdEAhaPOsuBnMOw77ZeK8XtBgivK26F0W7/rBXU5ALFSu', '$2y$10$3NPQDbn.sdEAhaPOsuBnMOw77ZeK8XtBgivK26F0W7/rBXU5ALFSu', NULL, NULL, 0, 0, NULL, 15.00, 20.00, 0.00, 1, NULL, NULL, 'active', '2023-12-18 17:51:12', '2023-12-18 18:12:33', 0);
+(336, 3, 'Atendimento', 0, NULL, NULL, '(00) 00000-0000', 'admin@gmail.com', NULL, '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', NULL, NULL, 0, 0, NULL, 15.00, 20.00, 0.00, 1, NULL, NULL, 'active', '2023-12-18 17:51:12', '2023-12-18 18:12:33', 0);
 
 -- --------------------------------------------------------
 
